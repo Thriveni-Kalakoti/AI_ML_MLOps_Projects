@@ -1,7 +1,5 @@
 # AI_ML_MLOps_Projects
 
-🧠 AI / ML / MLOps Projects
-
 This repository showcases my hands-on learning and practical implementation of end-to-end Machine Learning systems and MLOps practices. 
 
 Unlike traditional notebook-based ML projects, this repository focuses on building production-style machine learning workflows — including model training, deployment, automation, CI/CD, and monitoring.
